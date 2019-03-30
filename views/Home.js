@@ -12,7 +12,7 @@ import Fraction from '../models/Fraction';
 import FractionCalculator from './FractionCalculator';
 
 type Props = {};
-export default class App extends Component<Props> {
+export default class Home extends Component<Props> {
 
     constructor(props: Props) {
         super(props);
